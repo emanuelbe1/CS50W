@@ -17,6 +17,13 @@ form {
 	margin-bottom: 10px;
 
 }
+a {
+	margin: 10px;
+	font-family: Roboto, Arial, sans-serif;
+	text-decoration: none;
+	font-weight: bold;
+
+}
 
 .search_bar {
 	width: 400px;
